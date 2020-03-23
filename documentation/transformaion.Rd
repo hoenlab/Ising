@@ -17,7 +17,7 @@ CuttingPoint(x, N)
   \item{x}{ vector x representing the observations on continuous variable to be transformed.}
 \item{N}{N representing the specified number of the levels}
 }
-}
+
 \details{
 %%  ~~ If necessary, more details than the description above ~~
 }
